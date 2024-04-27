@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik Sarkar</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h2>How to reach me kou94shik@gmail.com</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kou95shik&label=Profile%20views&color=0e75b6&style=flat" alt="kou95shik" /> </p>
 
